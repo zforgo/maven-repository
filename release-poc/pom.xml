@@ -17,8 +17,8 @@
 
 
 	<scm>
-		<connection>scm:git:ssh://github.com/zforgo/maven-repository.git</connection>
-		<developerConnection>scm:git:ssh://github.com/zforgo/maven-repository.git</developerConnection>
+		<connection>scm:git:git@github.com/zforgo/maven-repository.git</connection>
+		<developerConnection>scm:git:https://github.com/zforgo/maven-repository.git</developerConnection>
 		<url>https://github.com/zforgo/maven-repository</url>
 		<tag>HEAD</tag>
 	</scm>
