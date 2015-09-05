@@ -3,7 +3,7 @@
 
 	<groupId>hu.zforgo.poc</groupId>
 	<artifactId>release-poc</artifactId>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.1</version>
 	<packaging>jar</packaging>
 
 	<name>release-poc</name>
@@ -18,7 +18,7 @@
 		<connection>scm:git:https://github.com/zforgo/maven-repository.git</connection>
 		<developerConnection>scm:git:https://github.com/zforgo/maven-repository.git</developerConnection>
 		<url>https://github.com/zforgo/maven-repository</url>
-	  <tag>HEAD</tag>
+	  <tag>release-poc-1.1</tag>
   </scm>
 	<distributionManagement>
 		<repository>
